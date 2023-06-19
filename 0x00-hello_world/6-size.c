@@ -1,4 +1,4 @@
-#include<stdio>
+#include <stdio>
 /**
  * main - A program that codes for the printing of the size of various computer types
  * Return 0
